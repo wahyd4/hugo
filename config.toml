@@ -1,0 +1,4 @@
+baseURL = "https://dex.energy/"
+languageCode = "en-us"
+title = "deX dev center"
+theme = "ananke"

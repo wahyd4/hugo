@@ -1,0 +1,9 @@
+localhost:2015 {
+  root /Users/junweizhao/test/quickstart/public
+
+  reauth {
+    path /
+    upstream url=https://10.10.66.16,skipverify=true,timeout=5s
+  }
+
+}
